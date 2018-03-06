@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZapApp</string>
+    <string name="title_home">Vyhledání</string>
+    <string name="title_history">Historie</string>
+    <string name="title_about">O aplikaci</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_line1">ARES - vyhledání společnosti podle IČ</string>
+    <string name="about_line2">zápočtová aplikace (ZapApp)</string>
+    <string name="about_line3">Jiří Mikulec - UTB FAI</string>
+    <string name="about_line4">© 2018</string>
+</resources>
